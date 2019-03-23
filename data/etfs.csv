@@ -1,0 +1,78 @@
+Code,Name,Index,Class,Location,Provider,Annual Fee,TC,TER,TIC
+GIVFIN,NewFunds S&P GIVI SA Financial 15,S&P GIVI SA Financial 15,Equity,Local,ABSA,0.35,0.22,0.29,0.51
+GIVIND,NewFunds S&P GIVI SA Industrial 25,S&P GIVI SA Industrial 25,Equity,Local,ABSA,0.35,0.17,0.3,0.47
+GIVISA,NewFunds S&P GIVI SA Top 50,S&P GIVI SA Top 50,Equity,Local,ABSA,0.35,0.18,0.29,0.47
+GIVRES,NewFunds S&P GIVI SA Resource 15,S&P GIVI SA Resource 15 ,Equity,Local,ABSA,0.35,0.21,0.3,0.51
+GLD,NewGold,Gold Spot,Commoditiy,Local,ABSA,,,0.4,0.4
+MAPPSG,NewFunds MAPPS Growth,MAPPS Growth,Blend,Local,ABSA,0.4,0.04,0.32,0.36
+MAPPSP,NewFunds MAPPS Protect,MAPPS Protect,Blend,Local,ABSA,0.4,0.03,0.32,0.35
+NEWFSA,NewFunds NewSA,NewSA,Equity,Local,ABSA,0.4,0.23,0.54,0.77
+NFEDEF,NewFunds Volatility Managed Defensive,Managed SA Defensive Equity,Blend,Local,ABSA,0.5,0,0.5,0.5
+NFEHGE,NewFunds Volatility Managed High Growth,Managed SA High Growth Equity,Blend,Local,ABSA,0.5,0,0.5,0.5
+NFEMOD,NewFunds Volatility Managed Moderate,Managed SA Moderate Equity,Blend,Local,ABSA,0.5,0,0.5,0.5
+NFEMOM,NewFunds Equity Momentum,ABSA Wits Risk-Controlled SA Momentum,Equity,Local,ABSA,0.51,1.25,0.44,1.69
+NFEVAL,NewFunds Value Equity,ABSA Wits Risk-Controlled SA Value Index,Equity,Local,ABSA,0.5,0.17,0.36,0.53
+NFEVOL,NewFunds Low Volatility,ABSA Wits Risk-Controlled SA Low Volatility,Equity,Local,ABSA,0.5,0.25,0.37,0.62
+NFGOVI,NewFunds GOVI,GOVI Total Return,Bond,Local,ABSA,0.35,0,0.29,0.29
+NFILBI,NewFunds ILBI,Barclays/ABSA South African Government Inflation-Linked Bond,Bond,Local,ABSA,0.35,0,0.37,0.37
+NFSH40,NewFunds Shari'ah Top 40,FTSE/JSE Shariah Top 40,Equity,Local,ABSA,0.4,0.13,0.29,0.42
+NFSWIX,NewFunds SWIX 40,FTSE/JSE SWIX 40,Equity,Local,ABSA,0.35,0.05,0.37,0.42
+NFTRCI,NewFunds TRACI 3 Month,TRACI,Cash,Local,ABSA,0.35,0,0.28,0.28
+NGPLD,NewPalladium,Palladium Spot,Commoditiy,Local,ABSA,,,0.4,0.4
+NGPLT,NewPlat,Platinum Spot,Commoditiy,Local,ABSA,,,0.4,0.4
+ASHGEQ,Ashburton Global 1200,S&P Global 1200,Equity,Offshore,Ashburton,0.37,0.17,0.67,0.84
+ASHINF,Ashburton Inflation,Government Inflation-Linked Bonds,Bond,Local,Ashburton,0.32,0,0.43,0.43
+ASHMID,Ashburton Mid Cap,FTSE/JSE Mid Cap,Equity,Local,Ashburton,0.44,0.12,0.67,0.79
+ASHT40,Ashburton Top 40,FTSE/JSE Top 40,Equity,Local,Ashburton,0.09,0.05,0.15,0.2
+ASHWGB,Ashburton World Government Bond,FTSE World Government Bond,Bond,Offshore,Ashburton,0.34,0,0.65,0.65
+AMIB50,Cloud Atlas AMI Big50 ex-SA,Cloud Atlas AMI Big50 ex-SA,Equity,Offshore,Cloud Atlas,0.35,,0.7,0.7
+AMIRE,Cloud Atlas AMI Real Estate ex-SA,Cloud Atlas AMI Real Estate ex-SA,Property,Offshore,Cloud Atlas,0.35,,0.7,0.7
+CSEW40,CoreShares Top 40 Equal Weight,Equally Weighted Top 40,Equity,Local,CoreShares,0.3,,0.41,0.41
+CSP500,CoreShares S&P 500,S&P 500,Equity,Offshore,CoreShares,0.45,,0.5,0.5
+CTOP50,CoreShares Top 50,S&P South Africa 50,Equity,Local,CoreShares,0.2,,0.26,0.26
+DIVTRX,CoreShares Dividend Aristocrats,S&P South Africa Dividend Aristocrats,Dividend,Local,CoreShares,0.4,,0.52,0.52
+GLODIV,CoreShares Global Dividend Aristocrats,S&P Global Dividend Aristocrats Blend,Dividend,Offshore,CoreShares,0.35,,0.7,0.7
+GLPROP,CoreShares Global Property,S&P Global Property 40,Property,Offshore,CoreShares,0.5,,0.69,0.69
+PREFTX,CoreShares Prefrax,FTSE/JSE Preference Share,Equity,Local,CoreShares,0.45,,0.57,0.57
+PTXSPY,CoreShares Proptrax SAPY,FTSE/JSE SAPY,Property,Local,CoreShares,0.425,,0.57,0.57
+PTXTEN,CoreShares Proptrax Ten,FTSE/JSE SA Listed Property Top 10 Equal ,Property,Local,CoreShares,0.425,,0.54,0.54
+DCCUS2,RMB DCC 2 Year US Treasury Bond,N/A,Bond,Offshore,RMB,,,,0
+DCCUSD,RMB DCC 10 Year US Treasury Bond,N/A,Bond,Offshore,RMB,,,,0
+KCCGLD,RMB Krugerrand DCC,N/A,Commoditiy,Local,RMB,,,,0
+STX40,Satrix 40,FTSE/JSE Top 40,Equity,Local,Satrix,0.05,0.03,0.1,0.13
+STX500,Satrix S&P 500 Feeder,S&P 500,Equity,Offshore,Satrix,0.06,0,0.25,0.25
+STXDIV,Satrix DIVI,FTSE/JSE Dividend Plus,Dividend,Local,Satrix,0.27,0.18,0.39,0.57
+STXEMG,Satrix MSCI Emerging Markets Feeder,MSCI Emerging Markets Investable Markets,Equity,Offshore,Satrix,0.09,0,0.4,0.4
+STXFIN,Satrix FINI ,FTSE/JSE Financial 15,Equity,Local,Satrix,0.31,0.03,0.41,0.44
+STXILB,Satrix ILBI,S&P SA Sovereign Inflation-linked Bond 1+ Year,Bond,Local,Satrix,0,0,0.25,0.25
+STXIND,Satrix Capped INDI,FTSE/JSE Capped Industrial 25,Equity,Local,Satrix,0.31,0.05,0.42,0.47
+STXMMT,Satrix Momentum ,Satrix Momentum,Equity,Local,Satrix,0,0.15,0.4,0.55
+STXNDQ,Satrix NASDAQ 100 Feeder,NASDAQ 100,Equity,Offshore,Satrix,0.02,0,0.48,0.48
+STXPRO,Satrix Property,S&P SA Composite Property Capped,Property,Local,Satrix,0.02,0.06,0.31,0.37
+STXQUA,Satrix Quality South Africa,S&P Quality South Africa,Equity,Local,Satrix,0.19,0,0.4,0.4
+STXRAF,Satrix RAFI 40,FTSE/JSE RAFI 40,Equity,Local,Satrix,0.25,0.08,0.47,0.55
+STXRES,Satrix RESI,FTSE/JSE Capped Resources 10,Equity,Local,Satrix,0.28,0.04,0.43,0.47
+STXSWX,Satrix SWIX Top 40,FTSE/JSE SWIX 40,Equity,Local,Satrix,0.29,0.03,0.45,0.48
+STXWDM,Satrix MSCI World Equity Feeder,MSCI World,Equity,Offshore,Satrix,0.04,0,0.35,0.35
+ETFGLD,Standard Bank Africa Gold,Gold Spot,Commoditiy,Local,Standard Bank,0.25,,,0
+ETFPLD,Standard Bank Africa Palladium,Palladium Spot,Commoditiy,Local,Standard Bank,0.35,,,0
+ETFPLT,Standard Bank Africa Platinum,Platinum Spot,Commoditiy,Local,Standard Bank,0.3,,,0
+ETFRHO,Standard Bank Africa Rhodium,Rhodium Spot,Commoditiy,Local,Standard Bank,0.75,,,0
+ETF500,Stanlib S&P 500 Index Feeder,S&P 500,Equity,Offshore,Stanlib,0.201,0.06,0.27,0.33
+ETF5IT,Stanlib S&P 500 Info Tech Index Feeder,S&P 500 Info Tech,Equity,Offshore,Stanlib,0.201,0.02,0.35,0.37
+ETFGGB,Stanlib Global Government Bond Index Feeder,FTSE G7 Government Bond,Bond,Offshore,Stanlib,0.201,0.05,0.4,0.45
+ETFGRE,Stanlib Global REIT Index Feeder,FTSE EPRA/NAREIT Global Real Estate,Property,Offshore,Stanlib,0.201,0.05,0.34,0.39
+ETFWLD,Stanlib MSCI World Index Feeder,MSCI World,Equity,Offshore,Stanlib,0.201,0.01,0.4,0.41
+STAN40,Stanlib Top 40,FTSE/JSE Top 40,Equity,Local,Stanlib,0.288,0.04,0.26,0.3
+STANSX,Stanlib SWIX 40,FTSE/JSE SWIX 40,Equity,Local,Stanlib,0.288,0.04,0.3,0.34
+STPROP,Stanlib SA Property,SA Listed Property,Property,Local,Stanlib,0.288,0.02,0.28,0.3
+SYG4IR,Sygnia Itrix 4th Industrial Revolution,Kensho New Economies,Equity,Offshore,Sygnia,0.4,0.16,0.63,0.79
+SYG500,Sygnia Itrix S&P 500 ETF,S&P 500,Equity,Offshore,Sygnia,0.1,0,0.16,0.16
+SYGEU,Sygnia Itrix Euro Stoxx 50,Euro Stoxx 50,Equity,Offshore,Sygnia,0.75,,0.86,0.86
+SYGJP,Sygnia Itrix MSCI Japan,MSCI Japan,Equity,Offshore,Sygnia,0.75,,0.86,0.86
+SYGP,Sygnia Itrix Global Property,S&P Global Property 40,Property,Offshore,Sygnia,0.15,0.04,0.23,0.27
+SYGSW4,Sygnia Itrix SWIX 40,FTSE/JSE SWIX 40,Equity,Local,Sygnia,0.1,0.04,0.15,0.19
+SYGT40,Sygnia Itrix Top 40,FTSE/JSE Top 40 ,Equity,Local,Sygnia,0.1,0.04,0.16,0.2
+SYGUK,Sygnia Itrix FTSE 100,FTSE 100,Equity,Offshore,Sygnia,0.75,,0.86,0.86
+SYGUS,Sygnia Itrix MSCI USA,MSCI US,Equity,Offshore,Sygnia,0.75,,0.86,0.86
+SYGWD,Sygnia Itrix MSCI World,MSCI World,Equity,Offshore,Sygnia,0.6,,0.68,0.68
